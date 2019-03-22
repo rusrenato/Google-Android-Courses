@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="blueTextView">This is an blue TextView</string>
+    <string name="greenTextView">This is an green TextView</string>
+    <string name="orangeTextView">This is an orange TextView</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
